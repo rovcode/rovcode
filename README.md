@@ -2,7 +2,7 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQF_-vwA8ZnQug/profile-displaybackgroundimage-shrink_200_800/0/1659232197849?e=1667433600&v=beta&t=rTS9GazGFzqE2wJID_fynTRCSXZIfD3lhvdQj3qsCp8" alt="FullStack Developer" heigth="200" whidth="200">
 
-Soy FullStack Web Developer 👨‍💻, con +3 años de experiencia en el desarrollo web, tanto en sector público y privado, participando en todo el proceso de implementación del software 💻, desde el FrontEnd, BackEnd, modelado de bases de datos y documentación, trabajando con metodologías, patrones y buenas prácticas para lograr productos de calidad 💪🏼, soy amante de la tecnología y siempre estoy aprendiendo cosas nuevas 💖, ¿Deseas crear tecbología 🚀 para un mundo mejor?...contáctame y sumemos esfuerzos!! 😎 
+Soy FullStack Web Developer 👨‍💻, con +3 años de experiencia en el desarrollo web, tanto en sector público y privado, participando en todo el proceso de implementación del software 💻, desde el FrontEnd, BackEnd, modelado de bases de datos y documentación, trabajando con metodologías, patrones y buenas prácticas para lograr productos de calidad 💪🏼, soy amante de la tecnología y siempre estoy aprendiendo cosas nuevas 💖, ¿Deseas crear tecnología 🚀 para un mundo mejor?...contáctame y sumemos esfuerzos!! 😎 
 
 ### Skills:
 [![Rony Velásquez](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://www.ronyvelasquez.com)](https://www.ronyvelasquez.com)
