@@ -19,6 +19,7 @@ Soy FullStack Web Developer 👨‍💻, con +3 años de experiencia en el desar
 [![Rony Velásquez](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&link=https://www.ronyvelasquez.com)](https://www.ronyvelasquez.com)
 [![Rony Velásquez](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://www.ronyvelasquez.com)](https://www.ronyvelasquez.com)
 [![Rony Velásquez](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://www.ronyvelasquez.com)](https://www.ronyvelasquez.com)
+[![Rony Velásquez](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&link=https://www.ronyvelasquez.com)](https://www.ronyvelasquez.com)
 [![Rony Velásquez](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.ronyvelasquez.com)](https://www.ronyvelasquez.com)
 [![Rony Velásquez](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.ronyvelasquez.com)](https://www.ronyvelasquez.com)
 [![Rony Velásquez](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&link=https://www.ronyvelasquez.com)](https://www.ronyvelasquez.com)
